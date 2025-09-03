@@ -1022,7 +1022,7 @@
             </div>
             <div class="testimonial-card">
                 <div class="rating">★★★★☆</div>
-                <p>"Great selection of products at competitive prices. Customer service was helpful when I had a question about my order."</p>
+                <p>"Great selection of products at Good prices. Customer service was helpful when I had a question about my order."</p>
                 <div class="user-info">
                     <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Michael T." class="user-avatar">
                     <div>
